@@ -1,0 +1,42 @@
+.main-app {
+    text-align: center;
+    margin: 100px;
+}
+
+.cta-button {
+    padding: 15px;
+    border: none;
+    border-radius: 12px;
+    min-width: 250px;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+}
+.ctb-button {
+    padding: 8px;
+    border: none;
+    border-radius: 8px;
+    min-width: 150px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;}
+.ctc-button {
+        padding: 8px;
+        border: none;
+        border-radius: 8px;
+        min-width: 150px;
+        color: white;
+        font-size: 15px;
+        cursor: pointer;}
+
+.access-wallet-button {
+        background: rgb(32, 211, 116);}
+.market-wallet-button {
+            background: rgb(65, 163, 233);}
+.connect-wallet-button {
+    background: rgb(32, 129, 226);
+}
+
+.mint-nft-button {
+    background: orange;
+}
